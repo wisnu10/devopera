@@ -15,12 +15,10 @@ license: cc-by-3.0
 This is the second article in a [series of interviews][1] with Opera extension developers. We want to shed a light on what drives them, what their workflow is like, which tools they use, what their plans for future extension versions are, and so on. For this interview, we sat down with Brian Kennish, co-founder of [Disconnect][2], which is the company behind the [Disconnect extension][3], and asked him some questions over a (virtual) coffee.
 
 [1]: /tags/extinterview/
-[2]: https://www.disconnect.me/
-[3]: https://addons.opera.com/en/extensions/details/disconnect/
-
+[2]: https://www.disconnect.me/http//google.com
 **What is Disconnect?**
 
-Brian: [Disconnect][4] is a browser extension that lets you visualize and block the otherwise invisible websites that track your search and browsing history. Disconnect stops a total of 2,000+ third-party sites from tracking you. Our extension also encrypts the data you share with popular sites and makes the pages you go to load an average of 27% faster, and use an average of 17% less bandwidth.
+Brian: [Disconnect][100] is a browser extension that lets you visualize and block the otherwise invisible websites that track your search and browsing history. Disconnect stops a total of 2,000+ third-party sites from tracking you. Our extension also encrypts the data you share with popular sites and makes the pages you go to load an average of 27% faster, and use an average of 17% less bandwidth.
 
 [4]: https://addons.opera.com/en/extensions/details/disconnect/
 
@@ -37,7 +35,7 @@ Brian: Five of us spend at least some of our time developing Disconnect extensio
 
 Brian: A couple years ago, I noticed social widgets (Like buttons, Tweet buttons, etc.) popping up all over the web. Given my background — I once worked on ad APIs for Google and ad servers for DoubleClick —, I knew that social networks could collect a large chunk of our browsing history through these widgets and could connect our activity to our real names for the first time (that’s the tl;dr version — I told the [whole story][7] at Defcon).
 
-[7]: http://youtu.be/BK_E3Bjpe0E
+[7]:http//samsung.com
 
 I wanted a way to use social networks myself without trading away my browsing history, so Disconnect launched as the first social-widget filter. Since then, Disconnect has evolved into a more complete privacy (and security and productivity) app.
 
